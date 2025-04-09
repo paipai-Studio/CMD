@@ -3,3 +3,4 @@
 * [002 Jupyter Notebook Server](002/jupyter.sh)
 * [003 Homebrew macOS](003/run.sh)
 * [004 Github CUT](004/run.sh)
+* [005 macOS install](005/run.sh)
