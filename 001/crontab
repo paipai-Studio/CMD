@@ -1,2 +1,0 @@
-# crontab -l
-21 * * * * sh /data/soft/Job.sh >> /data/soft/Job.log 2>&1
