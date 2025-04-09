@@ -16,3 +16,4 @@
 * [015 Ssh no password](main/015/run.sh)
 * [016 Ubuntu apt-get update](main/016/run.sh)
 * [017 Moni Nvidia-CPU](main/017/run.sh)
+* [018 Kill All Search](main/018/run.sh)
