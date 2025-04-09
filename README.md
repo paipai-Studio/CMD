@@ -10,3 +10,4 @@
 * [009 Zip CUT](main/009/run.sh)
 * [010 Git init ssh-key](main/010/run.sh)
 * [011 Git use datetime](main/011/run.sh)
+* [012 Check your IP](main/012/run.sh)
