@@ -1,5 +1,5 @@
 * [000 bashrc alias](000/run.sh)
 * [001 Crontab DayJob](001)
-* 002 Jupyter Notebook Server
-* 003 Homebrew macOS 
-* 004 Github CUT
+* [002 Jupyter Notebook Server](002/jupyter.sh)
+* [003 Homebrew macOS](003/run.sh)
+* [004 Github CUT](004/run.sh)
