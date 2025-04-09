@@ -8,3 +8,4 @@
 * [007 Indicator-sysmonitor](main/007/run.sh)
 * [008 Windows subsystem for linux](main/008/run.sh)
 * [009 Zip CUT](main/009/run.sh)
+* [010 Git init ssh-key](main/010/run.sh)
