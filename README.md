@@ -5,3 +5,4 @@
 * [004 Github CUT](004/run.sh)
 * [005 macOS install](005/run.sh)
 * [006 diskutil partitionDisk](006/run.sh)
+* [007 indicator-sysmonitor](007/run.sh)
