@@ -6,3 +6,4 @@
 * [005 macOS install](005/run.sh)
 * [006 diskutil partitionDisk](006/run.sh)
 * [007 indicator-sysmonitor](007/run.sh)
+* [008 windows subsystem for linux](008/run.sh)
