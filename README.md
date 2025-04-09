@@ -4,3 +4,4 @@
 * [003 Homebrew macOS](003/run.sh)
 * [004 Github CUT](004/run.sh)
 * [005 macOS install](005/run.sh)
+* [006 diskutil partitionDisk](006/run.sh)
