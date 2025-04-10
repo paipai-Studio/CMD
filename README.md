@@ -18,3 +18,4 @@
 * [017 Moni Nvidia-CPU](main/017/run.sh)
 * [018 Kill All Search](main/018/run.sh)
 * [019 While in linux](main/019/run.sh)
+* [020 Jupyter To iPython](main/020/run.sh)
