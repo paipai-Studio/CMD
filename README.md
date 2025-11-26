@@ -19,3 +19,4 @@
 * [018 Kill All Search](main/018/run.sh)
 * [019 While in linux](main/019/run.sh)
 * [020 Jupyter To iPython](main/020/run.sh)
+* [021 pipreqs AUTO pip requirements](main/021/run.sh)
