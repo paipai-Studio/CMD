@@ -20,3 +20,4 @@
 * [019 While in linux](main/019/run.sh)
 * [020 Jupyter To iPython](main/020/run.sh)
 * [021 pipreqs AUTO pip requirements](main/021/run.sh)
+* [022 Paddle RUN GPU](main/022/run.py)
