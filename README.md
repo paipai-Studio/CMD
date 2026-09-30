@@ -21,3 +21,5 @@
 * [020 Jupyter To iPython](main/020/run.sh)
 * [021 pipreqs AUTO pip requirements](main/021/run.sh)
 * [022 Paddle RUN GPU](main/022/run.py)
+* [023 install docker](main/023/run.sh)
+* [024 install xunlei docker](main/024/run.sh)
